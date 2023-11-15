@@ -18,7 +18,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-.header {
+.Header {
   /* border-bottom: 1px solid #e2e8f0; */
   padding: 20px 60px 0 60px;
 }
@@ -328,7 +328,7 @@ footer img {
 }
 
 @media only screen and (max-width: 768px) {
-  .header {
+  .Header {
     padding: 10px 20px;
   }
   .navbar {
